@@ -60,7 +60,7 @@
             <div class="text-center mt-4">
                 <div class="text-heading text-muted text-lg">Welcome To</div>
                 <h2 class="my-2">Bharath Footwear</h2>
-                
+                <!--<div class="text-heading text-muted text-lg">Best footwear in avadi.Footwear in avadi</div> -->
             </div>
         </div>
 
@@ -68,7 +68,7 @@
             <hr class="divider">
             <h2 class="text-center text-lg text-uppercase my-0"><strong>About Us</strong></h2>
             <hr class="divider">
-            <p class="text-center">We at Bharath Footwear have been providing fashionable and customized footwears across various generations since 1983.We are the destination for the latest in fashion footwear.</p>
+            <p class="text-center">We at Bharath Footwear have been providing fashionable and customized footwears across various generations since 1983.We are the destination for the best footwear in avadi.</p>
         </div>
 
          <div class="bg-faded p-4 my-4 text-center">
